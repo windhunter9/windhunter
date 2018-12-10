@@ -3,6 +3,7 @@ chardet==3.0.4
 cycler==0.10.0
 dj-database-url==0.5.0
 Django==2.1.4
+django-heroku==0.3.1
 gunicorn==19.9.0
 idna==2.7
 kiwisolver==1.0.1
@@ -10,6 +11,7 @@ lxml==4.2.5
 matplotlib==3.0.2
 numpy==1.15.4
 pandas==0.23.4
+psycopg2==2.7.6.1
 pyparsing==2.3.0
 python-dateutil==2.7.5
 pytz==2018.7
